@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いっちょくせんだいさくせん！",
+  "base_artist": "P丸様。",
+  "createdAt": "2026-02-15T04:18:12.179989Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いっちょくせんだいさくせん!",
+      "artist": "P丸様。",
+      "has_synced": false,
+      "path": "select/pl_01_いっちょくせんだいさくせん!_P丸様。.txt"
+    }
+  ]
+}
